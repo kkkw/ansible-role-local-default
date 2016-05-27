@@ -1,0 +1,5 @@
+*.retry
+*~
+*.bak
+.DS_Store
+Thumbs.db
