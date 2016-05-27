@@ -1,4 +1,5 @@
 - hosts: localhost
   connection: local
-  tasks:
-    - foo
+  roles:
+    # - foo
+    # - { role: bar, tags: [bar]}
